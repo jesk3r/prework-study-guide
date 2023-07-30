@@ -40,3 +40,15 @@
     border: 5px solid gray;
     box-shadow: 5px 10px #888888;
   }
+
+  .tag {
+    color: crimson;
+  }
+
+  .atribute{
+    color: rgb(69, 171, 225) ;
+  }
+
+  .cmd{
+    color: green;
+  }
