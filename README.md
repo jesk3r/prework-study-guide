@@ -27,7 +27,7 @@ Clone the project and then using a webrowser open the index.html file.
 ## Usage
 
 
-![alt text](assets/images/screenshot.png)
+![alt text](assets/screenshot.png)
 
 ## Credits
 
